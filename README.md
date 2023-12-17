@@ -34,18 +34,16 @@ kode diatas untuk membuat skrip PHP yang menggunakan session untuk menyimpan dan
 untuk  mengimplementasikan pengelolaan state menggunakan cookie dan browser storage pada sisi client menggunakan JavaScript.
 
 dalam meng-host aplikasi web, langkah-langkah yang dilakukan adalah sebagai berikut:
-1. Pilih penyedia hosting web yang sesuai dengan kebutuhan Anda. Pastikan penyedia hosting tersebut menyediakan fitur yang Anda butuhkan, seperti kapasitas penyimpanan, bandwidth, dan dukungan teknis.
-2. Pilih paket hosting yang sesuai dengan anggaran Anda. Pastikan paket hosting tersebut memiliki fitur yang memadai untuk aplikasi web Anda.
-3. Upload aplikasi web Anda ke server hosting. Pastikan aplikasi web Anda sudah diuji dan bekerja dengan baik sebelum di-upload ke server hosting.
-4. Penyedia hosting web yang menurut kami paling cocok untuk aplikasi web Anda adalah Niagahoster1. Niagahoster menawarkan layanan hosting yang stabil dan cepat dengan harga yang terjangkau. Selain itu, Niagahoster juga menyediakan fitur-fitur keamanan seperti SSL gratis, sistem keamanan anti DDoS, dan proteksi perangkat lunak berbahaya (malware).
+1. memilih penyedia hosting web yang sesuai dengan kebutuhan. Pastikan penyedia hosting tersebut menyediakan fitur yang butuhkan, seperti kapasitas penyimpanan, bandwidth, dan dukungan teknis.
+2. Pilih paket hosting yang sesuai dengan anggaran. Pastikan paket hosting tersebut memiliki fitur yang memadai untuk aplikasi web.
+3. mengupload aplikasi web ke server hosting.
 
-Untuk memastikan keamanan aplikasi web yang Anda host, Anda dapat melakukan beberapa tindakan berikut:
+Untuk memastikan keamanan aplikasi web yang kita hosting, kita dapat melakukan beberapa tindakan berikut:
 1. Perbarui perangkat lunak secara berkala untuk menghindari kerentanan keamanan.
 2. Gunakan HTTPS untuk menjaga keamanan data yang ditransfer antara server dan klien.
 3. Gunakan alat keamanan web yang baik untuk memantau aktivitas aplikasi web dan log keamanan secara teratur.
 4. Terapkan mekanisme otentikasi dan otorisasi untuk melindungi aplikasi web dari serangan.
 5. Pastikan kepatuhan terhadap peraturan terkait keamanan aplikasi web.
-6. Konfigurasi server yang diterapkan untuk mendukung aplikasi web Anda dapat bervariasi tergantung pada kebutuhan aplikasi web Anda. Namun, beberapa konfigurasi umum yang dapat Anda terapkan adalah:
 
 konfigurasi yang digunakan dalam membbuat aplikasi web ini adalah:
 1. Menggunakan sistem operasi windows
