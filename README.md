@@ -1,4 +1,4 @@
-# UAS-PEMWEB
+# UAS-PEMROGRAMAN WEB
 Nama : Farhan Rizky Gunawan
 NIM : 121140200
 Kelas : RB
