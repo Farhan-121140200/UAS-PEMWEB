@@ -31,7 +31,7 @@ kode diatas untuk membuat skrip PHP yang menggunakan session untuk menyimpan dan
 
 ![image](https://github.com/farhankyy/UAS-PEMWEB/assets/116373128/ab622852-8d0f-4e9e-a8db-55489a88c5b0)
 
-untuk  mengimplementasikan pengelolaan state menggunakan cookie dan browser storage pada sisi client menggunakan JavaScript.
+kode diatas untuk mengimplementasikan pengelolaan state menggunakan cookie dan browser storage pada sisi client menggunakan JavaScript.
 
 dalam meng-host aplikasi web, langkah-langkah yang dilakukan adalah sebagai berikut:
 1. memilih penyedia hosting web yang sesuai dengan kebutuhan. Pastikan penyedia hosting tersebut menyediakan fitur yang butuhkan, seperti kapasitas penyimpanan, bandwidth, dan dukungan teknis.
